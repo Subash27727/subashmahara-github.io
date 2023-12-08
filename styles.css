@@ -11063,3 +11063,9 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
+ body {
+            background-image: url('brp.jpg');
+            background-size: cover; /* Adjust as needed */
+            background-repeat: no-repeat;
+        }
